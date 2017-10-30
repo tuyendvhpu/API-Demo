@@ -1,0 +1,10 @@
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\API\ASP.NET-API\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
